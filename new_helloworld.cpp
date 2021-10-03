@@ -1,9 +1,10 @@
-#include <iostream>
-using namespace std;
+#include <iostream> // header file
+using namespace std; // using namespace std
 
-int main() 
+int main() // main method
 {
-	cout<<"Changes made! ";
+	// Printing a message 
+	cout<<"Changes made!!! ";
 	cout << "Hello World!";
-	return 0;
-}
+	return 0; // returning a value
+} // end of main
